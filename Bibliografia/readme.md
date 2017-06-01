@@ -24,3 +24,4 @@ Para temas avanzados:
 Para Econofísica: 
 
 1. Chakrabarti, B. K., Chakraborti, A., Chakravarty, S. R., & Chatterjee, A. (2013). Econophysics of income and wealth distributions. Cambridge University Press.
+(temporalmente lo subo)
