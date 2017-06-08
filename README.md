@@ -1,2 +1,1 @@
-
-# Subi temporalmente el libro de econofísica en la carpeta de bibliografía. 
+# Ya están las calificaciones finales  en la carpeta "evaluaciones"
